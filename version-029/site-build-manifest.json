@@ -1,0 +1,23 @@
+{
+  "siteName": "高清国产剧集",
+  "movieCount": 2000,
+  "detailPageCount": 2000,
+  "categoryCount": 12,
+  "categoryCoverage": {
+    "国产剧集": 167,
+    "国产电影": 167,
+    "热门综艺": 167,
+    "喜剧欢乐": 167,
+    "悬疑犯罪": 167,
+    "动作奇幻": 167,
+    "青春家庭": 167,
+    "战争历史": 167,
+    "爱情剧情": 166,
+    "动画运动": 166,
+    "经典老片": 166,
+    "海外精选": 166
+  },
+  "coverRule": "第 N 条影片使用 ./X.jpg，X = ((N - 1) % 150) + 1；ZIP 中不包含 JPG 文件。",
+  "m3u8SourceCountExtractedFromOriginalJs": 20,
+  "baiduHmId": "95df08bc498ee0333203841fd6fee1eb"
+}

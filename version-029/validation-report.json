@@ -1,0 +1,13 @@
+{
+  "movie_data_count": 2000,
+  "detail_page_count": 2000,
+  "html_page_count": 2019,
+  "category_count": 12,
+  "category_card_total": 2000,
+  "category_coverage_total": 2000,
+  "missing_baidu_html_count": 0,
+  "missing_baidu_files": [],
+  "missing_local_html_links_sample": [],
+  "media_files_packaged": [],
+  "all_checks_passed": true
+}
